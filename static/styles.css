@@ -1,0 +1,94 @@
+.container{ 
+margin-top: 5vh;
+   color: black;
+   max-height: 50%;
+  max-width: 70%;
+text-align: center;
+
+} 
+
+.lead{
+   font-size: 18px;
+   font-family:cursive;
+  color: rgb(100, 12, 12);
+}
+ .jumbotron-fluid{
+   padding: 1.7em;
+    color:black;
+    max-height: 50%;
+    background-color: rgb(206, 204, 200);
+    border-radius: 10vh;
+    border-color: rgb(73, 17, 7);
+border-style: solid;
+box-shadow: 0px 5px 10px gray;
+ }  
+
+ .rawtextdiv{
+    margin-top: 20px;
+    margin-left: 10px;
+ }
+
+ .btn{
+    margin-top: 30px;
+   text-align: center;
+    border-radius: 5px;
+    color: black;
+    border-color: rgb(5, 1, 39);
+    border-style: inset;
+    background-color: rgb(160, 205, 245);
+    box-shadow: 0px 10px 10px rgb(16, 3, 77);
+ }
+ .btn:hover{
+
+ background-color:rgba(65,105,225,0.733);
+ color: whitesmoke;
+}
+
+ .original_title{
+    background-color: rgb(247, 158, 125);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+   max-height: max-content;
+   max-width: max-content;
+    margin-top: 30px;
+    margin-left: -12vh;
+    border-radius: 5vh;
+    border-color: rgb(243, 122, 113);
+border-style: solid;
+box-shadow: 0px 5px 10px gray;
+    
+   
+ }
+
+ .summary_title{
+    background-color: rgb(199, 255, 114);
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+    margin-top: 30px;
+    max-height: max-content;
+    max-width: max-content;
+   margin-left: 50vh;
+   border-radius: 5vh;
+   border-color: rgb(27, 80, 2);
+   border-style: solid;
+   box-shadow: 0px 5px 10px gray;
+}
+
+ 
+ .originalText{
+    background-color: rgb(241, 184, 163);
+    height: fit-content;
+  margin-left: 10vh;
+  padding: 1.7em;
+  block-size: fit-content;
+ }
+
+ .summaryText{
+    background-color: rgb(206, 247, 145);
+    margin-right: 10vh;
+    margin-left: 10vh;
+    padding: 1.7em;
+    block-size: fit-content;
+ }
